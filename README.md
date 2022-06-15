@@ -1,5 +1,3 @@
-![planejador-de-poupanca](./public/planejador-de-poupanca.png)
-
 ## Como executar
 
 Primeiro, execute o servidor de desenvolvimento:
